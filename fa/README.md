@@ -6,11 +6,11 @@ http2 explained
 
 <p dir="rtl">صفحه‌ی https://daniel.haxx.se/http2/ صفحه‌ی کانونی این پروژه است.</p>
 
-<p dir="rtl">همچنین See https://github.com/bagder/http2-explained برای سورس کامل این کتاب مشاهده کنید.
+<p dir="rtl">همچنین https://github.com/bagder/http2-explained برای سورس کامل این کتاب مشاهده کنید.
 
 همکاری‌کردن
 ---------
 
-من از کمک و همکاری‌های شما استقبال می‌کنم. ما [Pull Requestها](https://github.com/bagder/http2-explained/issues) را قبول می‌کنیم یا می‌توانید به ایمیل daniel-http2@haxx.se ایمیل بفرستید.
+<p dir"rtl">من از کمک و همکاری‌های شما استقبال می‌کنم. ما [Pull Requestها](https://github.com/bagder/http2-explained/issues) را قبول می‌کنیم یا می‌توانید به ایمیل daniel-http2@haxx.se ایمیل بفرستید.</p>
 
 / دنیل استنبرگ
